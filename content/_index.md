@@ -6,9 +6,7 @@ framed: true
 
 {{< image src="/juniordamacena.jpg" alt="" position="center" style="width: 250px; padding: 0; border-radius: 50%;" >}}
 
-Hi, my name is Junior Damacena. I’m a Computer Scientist and Android Developer. I love everything programming; in the past, I have worked with Xamarin and native Android Development as well as some Web Development. I also have used many languages and technologies in various projects such as Flutter, Node.JS, Python.
-
-Here’s how you can see a little more of my work or get in touch:
+Hi, my name's Junior Damacena, I'm an Android/Mobile Developer from Brazil. I love tech, software development, comedy and Sci-fi movies. Checkout some of my work or get in touch through one of the links below.
 
 - [Portfolio/Projects](/projects)
 - [Github](https://github.com/jdamacena)
