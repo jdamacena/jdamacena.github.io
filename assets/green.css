@@ -1,0 +1,13 @@
+:root{
+    --phoneWidth:(max-width:684px);
+    --tabletWidth:(max-width:900px);
+    --accent:#40bf4a;
+    --background:#1f222a;
+    --color:#ffffff;
+    --post-meta-color:#3b8641;
+    --border-color:hsla(0,0%,100%,0.1)
+}
+
+.post-meta {
+    color: var(--post-meta-color);
+}
