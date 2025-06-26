@@ -22,11 +22,11 @@ When I’m not coding, you’ll probably find me gaming, exploring the latest sc
 - API Integration
 
 **Featured Projects:**
-- [Drawing Video](https://github.com/jdamacena/DrawingVideo): A web-based whiteboard recorder for creating and sharing drawings.
-- [Sudoku Generator](https://github.com/jdamacena/kotlin-sudoku-generator): Generates valid, completed Sudoku boards using Kotlin.
-- [Memos & Notes App](https://github.com/jdamacena/memos_notes): A note-taking app built with Flutter.
-- [Mars' Rovers Pictures](https://github.com/jdamacena/mars_rovers_pictures): Displays amazing photos from NASA’s Mars rovers.
+- Drawing Video [(Project Demo)](https://jdamacena.github.io/DrawingVideo/): A web-based whiteboard recorder for creating and sharing drawings.
 - [Fã de Filme (Movies Fan)](https://github.com/jdamacena/fa_de_filme): Discover trending movies with this Flutter app.
+- [Mars' Rovers Pictures](https://github.com/jdamacena/mars_rovers_pictures): Displays amazing photos from NASA’s Mars rovers.
+- [Memos & Notes App](https://github.com/jdamacena/memos_notes): A note-taking app built with Flutter.
+- [Sudoku Generator](https://github.com/jdamacena/kotlin-sudoku-generator): Generates valid, completed Sudoku boards using Kotlin.
 
 Feel free to explore my work or connect with me using the links below!
 
