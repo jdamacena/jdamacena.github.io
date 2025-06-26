@@ -6,21 +6,29 @@ framed: true
 
 {{< image src="/juniordamacena.jpg" alt="" position="center" style="width: 250px; padding: 0; border-radius: 50%;" >}}
 
-**Hi, I'm Junior Damacena!** 
+Hi, I’m Junior Damacena!
 
-I'm an enthusiastic Android/Mobile Developer from Brazil, passionate about creating innovative solutions that make a difference. With expertise in Android development and a love for technology, I enjoy turning ideas into reality. When I'm not coding, you can find me enjoying video games or diving into the latest sci-fi movies.
+I’m a passionate Android and Mobile Developer from Brazil, dedicated to building innovative apps and web experiences that solve real-world problems. With hands-on experience in Android (Kotlin, Java) and cross-platform frameworks like Flutter, I love transforming creative ideas into polished, user-friendly products. My portfolio includes everything from personal productivity tools to fun web apps and even projects that showcase NASA’s Mars rover photos!
+
+Beyond mobile, I’m also skilled in web development (Node.js, Vue.js, HTML/JS/CSS) and have a keen eye for clean UI/UX design. I enjoy experimenting with new technologies, sharing open-source projects, and continuously learning to stay ahead in the fast-evolving tech landscape.
+
+When I’m not coding, you’ll probably find me gaming, exploring the latest sci-fi movies, or brainstorming my next side project.
 
 **Skills:**
-- Android Development (Java, Kotlin)
-- Web Development (Node.JS, Vue.JS)
-- Mobile App Design
+- Android Development (Kotlin, Java)
+- Flutter & Dart
+- Web Development (Node.js, Vue.js, HTML/JS/CSS)
+- UI/UX Principles & Mobile App Design
 - API Integration
-- UI/UX Principles
 
 **Featured Projects:**
-- [Portfolio/Projects](/projects)
+- [Drawing Video](https://github.com/jdamacena/DrawingVideo): A web-based whiteboard recorder for creating and sharing drawings.
+- [Sudoku Generator](https://github.com/jdamacena/kotlin-sudoku-generator): Generates valid, completed Sudoku boards using Kotlin.
+- [Memos & Notes App](https://github.com/jdamacena/memos_notes): A note-taking app built with Flutter.
+- [Mars' Rovers Pictures](https://github.com/jdamacena/mars_rovers_pictures): Displays amazing photos from NASA’s Mars rovers.
+- [Fã de Filme (Movies Fan)](https://github.com/jdamacena/fa_de_filme): Discover trending movies with this Flutter app.
 
-Feel free to check out my work or get in touch through one of the links below!
+Feel free to explore my work or connect with me using the links below!
 
 - [Github](https://github.com/jdamacena)
 - [LinkedIn](https://www.linkedin.com/in/juniordamacena/en)
