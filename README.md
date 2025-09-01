@@ -23,7 +23,7 @@ For more details, it's a good idea to refer to the [quickstart](https://gohugo.i
 
 ## Running the Site
 
-To run the site locally, use the following command (do not work on windows powershell, use git bash):
+To run the site locally, use the following command (if it don't work on windows powershell, use git bash):
 
 ```bash
 hugo server
