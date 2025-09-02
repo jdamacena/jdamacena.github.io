@@ -10,6 +10,7 @@ This is my personal website built with [Hugo](https://gohugo.io/). It showcases 
 - [Adding New Posts](#adding-new-posts)
 - [Deploying the Site](#deploying-the-site)
 - [Customizing the Site](#customizing-the-site)
+- [Managing Multiple Languages](#managing-multiple-languages)
 
 ## Installation
 
@@ -68,6 +69,14 @@ To add a new blog post:
 - **Configuration**: Edit the `config.toml` file to change site settings such as title, base URL, and pagination.
 
 - **Themes**: Customize the theme by editing the files in the `layouts` and `static` directories. Note that a theme is already ```git submodule``` in the repo, as suggested in the Hugo's quickstart, so the theme will always be pulled from the original repository and always stay updated.
+
+## Managing Multiple Languages
+
+This site is configured to support multiple languages. Here's how to manage the content:
+
+-   **Language-Specific Content**: Content for each language is stored in its own directory within the `content` folder (e.g., `content/en` for English and `content/pt` for Portuguese).
+-   **Shared Content**: Content that is shared across all languages, such as images, can be placed in the `content/shared` directory.
+-   **Adding a New Language**: To add a new language, you would create a new directory under `content` (e.g., `content/fr` for French) and update the `config.toml` file with the new language configuration.
 
 ### Instructions for Use
 - Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub username and repository name.
