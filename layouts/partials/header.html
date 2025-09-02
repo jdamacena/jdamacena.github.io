@@ -1,0 +1,35 @@
+<header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      {{ partial "logo.html" . }}
+    </div>
+    {{ if len $.Site.Menus }}
+      <div class="menu-trigger">menu</div>
+    {{ end }}
+    <div class="header__right">
+      {{ if and .IsTranslated .Site.Params.showLanguageSelector }}
+        <div class="language-selector">
+          <select onchange="window.location.href=this.value" style="
+            background: var(--background);
+            color: var(--accent);
+            border: 2px solid var(--accent);
+            padding: 4px 8px;
+            font-size: 1em;
+            font-family: Monaco, Consolas, Ubuntu Mono, monospace;
+            border-radius: 0;
+            outline: none;
+            cursor: pointer;
+          ">
+            <option value="{{ .Permalink }}" selected>{{ .Language.LanguageName }}</option>
+            {{ range .Translations }}
+              <option value="{{ .Permalink }}">{{ .Language.LanguageName }}</option>
+            {{ end }}
+          </select>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ if len $.Site.Menus }}
+    {{ partial "menu.html" . }}
+  {{ end }}
+</header>
